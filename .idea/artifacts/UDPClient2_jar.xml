@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UDPClient2:jar">
+    <output-path>/var/www/upload</output-path>
+    <root id="archive" name="UDPClient2.jar">
+      <element id="module-output" name="UDPClient2" />
+    </root>
+  </artifact>
+</component>
